@@ -1,1 +1,1 @@
-#Assignment on SF Slary datset from Kaggle.
+#Assignment on SF Salary datset from Kaggle.
